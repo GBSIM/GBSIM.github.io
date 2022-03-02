@@ -15,10 +15,12 @@ author_profile: true
 - 2020.01 ~ 현대자동차 전동화제어개발1팀, 전기차 SW 엔지니어
 
 ## 개발
-### 언어
+### 언어 및 라이브러리
 - C
 - Python
+    - tensorflow + keras, pandas ...
 - Javascript
+    - React
 
 ### 개발 분야
 - 임베디드 SW
