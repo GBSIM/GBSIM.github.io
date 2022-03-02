@@ -1,5 +1,9 @@
 # main links
 main:
+  - title: "Home"
+    url: https://gbsim.github.io/
+  - title: "About"
+    url: /about/
   - title: "Category"
     url: /categories/
   - title: "Tag"
