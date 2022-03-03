@@ -1,6 +1,6 @@
 ---
 layout: single
-title: "주가의 상대가치평가법 - PER, PBR, PSR"
+title: "주가의 상대가치평가법 - PER, PSR"
 category: Finance
 tag: [금융,투자,주식,주가]
 toc: true
