@@ -45,7 +45,7 @@ toc: true
 | PBR | 주가순자산비율 (Price Book Ratio) | 주가 / 주당순자산 (BPS) |
 | PSR | 주가매출액비율 (Price Sales Ratio) | 주가 / 주당매출액 (SPS) |
 
-오늘은 가장 쉽게 사용되는 <strong>PER, PBR, PSR</strong>에 대해서 알아보도록 할게요!
+오늘은 가장 쉽게 사용되는 <strong>PER, PSR</strong>에 대해서 알아보도록 할게요!
 
 
 ### 주가와 순이익의 관계: PER
