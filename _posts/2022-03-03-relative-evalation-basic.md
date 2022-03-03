@@ -96,7 +96,7 @@ PSR은 아래와 같은 수식으로 계산되요.
 
 ```python
 PSR = Price / SPS
-		= 주가 / 주당 매출액
+    = 주가 / 주당 매출액
 
 SPS: Sales Per Share (Revenue Per Share와 동일)
 ```
