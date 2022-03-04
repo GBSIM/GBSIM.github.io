@@ -126,7 +126,6 @@ title은 필수적인 HTML 요소에요. 꼭 title을 작성해주세요. 물론
 <title>Gyubin's blog</title>
 ```
 <br>
-<br>
 
 # \<html>과 를 \<body>를 빠뜨리지 마세요.
 
@@ -150,7 +149,6 @@ title은 필수적인 HTML 요소에요. 꼭 title을 작성해주세요. 물론
     This is a comment.
 -->
 ```
-<br>
 <br>
 
 # HTML에서 활용되는 파일 이름은 소문자를 사용하세요.
