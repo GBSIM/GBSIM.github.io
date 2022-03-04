@@ -68,7 +68,6 @@ Attribute의 값에는 문자를 그대로 집어넣기보다는 큰따옴표를
 <img src="pokemon.gif" alt="HTML5" style="width:200px;height:200px;">
 ```
 <br>
-<br>
 
 # 공백을 피해주세요.
 
