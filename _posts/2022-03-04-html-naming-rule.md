@@ -9,6 +9,8 @@ toc: true
 웹개발에 있어서 웹의 전반적인 형태를 만들어주는 가장 기초적인 부분이 HTML과 CCS에요.
 
 오늘은 HTML의 style guide에 대해서 다뤄보겠습니다~! 본 포스팅의 stye guide는 <strong>w3schools.com</strong>의 HTML style guide를 기반으로 작성되었어요.
+<br>
+<br>
 
 # 소문자를 사용해주세요.
 
@@ -25,6 +27,8 @@ HTML 코딩 시에는 소문자만을 사용하세요! 대문자를 이용해서
 <p> This is a pragraph.</p>
 </body>
 ```
+<br>
+
 
 # 모든 HTML element를 닫아주세요.
 
@@ -36,6 +40,7 @@ HTML 코딩 시에는 소문자만을 사용하세요! 대문자를 이용해서
     <p>This is a paragraph.</p>
 </section>
 ```
+<br>
 
 # Attribute에는 소문자를 사용해주세요.
 
@@ -44,6 +49,7 @@ HTML element들의 attribute에는 소문자만을 사용해주세요. 이유는
 ```html
 <a href="https://gbsim.github.io">Visit Gyubin's blog</a>
 ```
+<br>
 
 # 모든 attribute 값에는 큰따옴표를 붙여주세요.
 
@@ -52,6 +58,7 @@ Attribute의 값에는 문자를 그대로 집어넣기보다는 큰따옴표를
 ```html
 <div class="header"></div>
 ```
+<br>
 
 # 이미지를 넣을 때는 alt, width, height 속성값을 넣어주세요.
 
@@ -60,6 +67,8 @@ Attribute의 값에는 문자를 그대로 집어넣기보다는 큰따옴표를
 ```html
 <img src="pokemon.gif" alt="HTML5" style="width:200px;height:200px;">
 ```
+<br>
+<br>
 
 # 공백을 피해주세요.
 
@@ -68,10 +77,13 @@ Attribute의 값에는 문자를 그대로 집어넣기보다는 큰따옴표를
 ```html
 <link rel="stylesheet" href="style.css">
 ```
+<br>
 
 # 한 줄에 너무 길게 코딩하지 마세요.
 
 이건 어느 언어를 사용할 때나 마찬가지 같아요. HTML 사용시에도 한 줄의 코드가 너무 길면 가독성이 떨어지니 다음 줄로 넘겨서 코딩해주세요.
+<br>
+<br>
 
 # 과도한 줄바꿈이나 들여쓰기를 피해주세요.
 
@@ -104,6 +116,7 @@ Attribute의 값에는 문자를 그대로 집어넣기보다는 큰따옴표를
 
 </body>
 ```
+<br>
 
 # title을 빠뜨리지 마세요.
 
@@ -112,10 +125,14 @@ title은 필수적인 HTML 요소에요. 꼭 title을 작성해주세요. 물론
 ```html
 <title>Gyubin's blog</title>
 ```
+<br>
+<br>
 
 # \<html>과 를 \<body>를 빠뜨리지 마세요.
 
 \<html>과 \<body>를 생략해도 코드가 동작은 해요. 하지만 몇몇 브라우저에서 또는 DOM, XML 소프트웨서는 동작하지 않을 수도 있어요!
+<br>
+<br>
 
 # HTML comment는 이렇게 작성해주세요.
 
@@ -133,10 +150,14 @@ title은 필수적인 HTML 요소에요. 꼭 title을 작성해주세요. 물론
     This is a comment.
 -->
 ```
+<br>
+<br>
 
 # HTML에서 활용되는 파일 이름은 소문자를 사용하세요.
 
 몇몇 브라우저에서는 소문자와 대문자를 체크해서 파일 이름에 접근하기도 해요. 그래서 모든 파일이름은 소문자를 사용해서, 혹여나 생길 문제를 방지하세요!
+<br>
+<br>
 
 # Default file name을 체크해주세요.
 
